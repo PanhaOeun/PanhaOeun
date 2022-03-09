@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @PanhaOeun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=d42932&size=24&width=500&lines=Welcome+👏🎉;Hello+I+am+Panha;Thanks+for+review+my+Profile)](https://git.io/typing-svg)
 
-<!---
-PanhaOeun/PanhaOeun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=PanhaOeun)
